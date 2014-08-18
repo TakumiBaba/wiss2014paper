@@ -1,0 +1,36 @@
+\documentclass[twoside]{wiss}
+
+%\usepackage{ascmac}
+\usepackage[hiragino-pro]{luatexja-preset}
+
+\usepackage{graphicx}
+% \usepackage{here} % [H]とするとその場所に配置されるらしい
+
+\usepackage{balance}    %% 最後のページの高さを揃えるために追加  (2012/9/27:watanabe, Igarashi)
+
+\journalhead{Babascript: }
+
+\begin{document}
+
+\title{Babascript: }
+\etitle{Babascript: }
+
+\author{匿名で査読を行うため著者名なし
+  \affil{匿名で査読を行うため所属名なし}}
+
+\maketitle
+
+\begin{abstract}
+  \input{.tmp/abstract.tex}
+\end{abstract}
+
+\input{.tmp/introduction.tex}
+\input{.tmp/babascript.tex}
+\input{.tmp/system.tex}
+\input{.tmp/discussion.tex}
+\input{.tmp/prework.tex}
+\input{.tmp/conclusion.tex}
+
+
+
+\end{document}
