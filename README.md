@@ -8,6 +8,9 @@ tex → pdf
 
 基本的にはmarkdownで書きたい
 
+## base gyazz
+http://gyazz.com/takumibaba/2014WISS論文
+
 ## requirements
 
 - pandoc
