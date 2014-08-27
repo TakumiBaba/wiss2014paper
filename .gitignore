@@ -1,4 +1,6 @@
 *.log
 *.aux
+*.bbl
+*.blg
 .tmp/
 node_modules/

@@ -9,7 +9,7 @@ gulp.task 'md2latex', ->
     from: 'markdown'
     to: 'latex'
     ext: '.tex'
-  .pipe gulp.dest '.tmp/'
+  .pipe gulp.dest './'
 
 gulp.task 'latex2pdf', ->
   gulp.src './paper.tex'
