@@ -3,7 +3,8 @@ pandoc = require 'gulp-pandoc'
 exec = require 'gulp-exec'
 
 gulp.task 'md2latex', ->
-  gulp.src 'sections/*.md'
+  # gulp.src 'sections/*.md'
+  gulp.src ['main.md', 'abstract.md']
   .pipe pandoc
     from: 'markdown'
     to: 'latex'
@@ -12,7 +13,10 @@ gulp.task 'md2latex', ->
 
 gulp.task 'latex2pdf', ->
   gulp.src './paper.tex'
-  .pipe exec 'lualatex <%= file.path %>'
+  .pipe exec 'lualatex paper'
+  .pipe exec 'pbibtex paper'
+  .pipe exec 'lualatex paper'
+  .pipe exec 'lualatex paper'
   .pipe exec.reporter()
 
 gulp.task 'clean', ->
