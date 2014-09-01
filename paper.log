@@ -1,0 +1,285 @@
+This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2014.6.24)  1 SEP 2014 21:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**paper
+(./paper.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2014/05/01> patch level 0)
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(./wiss.cls
+Document Class: wiss 2010/07/06 pLaTeX class for WISS
+(./wissbase11.cls
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 51.
+
+)
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\@abstractbox=\box41
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 2014/04/23 v3.0j Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen118
+\Gin@req@width=\dimen119
+)
+(/usr/local/texlive/2014/texmf-dist/tex/platex/base/nidanfloat.sty
+Package: nidanfloat 2005/12/09 v2.7 Put double-floats at top/bottom within twoc
+olumn mode
+\c@dblbotnumber=\count89
+\@dblbotroom=\dimen120
+\@dblbotnum=\count90
+\@floatht=\dimen121
+\@fixht=\dimen122
+\@combinebox=\box42
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2014/04/23 v1.8e multicolumn formatting (FMi)
+\c@tracingmulticols=\count91
+\mult@box=\box43
+\multicol@leftmargin=\dimen123
+\c@unbalance=\count92
+\c@collectmore=\count93
+\doublecol@number=\count94
+\multicoltolerance=\count95
+\multicolpretolerance=\count96
+\full@width=\dimen124
+\page@free=\dimen125
+\premulticols=\dimen126
+\postmulticols=\dimen127
+\multicolsep=\skip41
+\multicolbaselineskip=\skip42
+\partial@page=\box44
+\last@line=\box45
+\maxbalancingoverflow=\dimen128
+\mult@rightbox=\box46
+\mult@grightbox=\box47
+\mult@gfirstbox=\box48
+\mult@firstbox=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\c@columnbadness=\count97
+\c@finalcolumnbadness=\count98
+\last@try=\dimen129
+\multicolovershoot=\dimen130
+\multicolundershoot=\dimen131
+\mult@nat@firstbox=\box67
+\colbreak@box=\box68
+\mc@col@check@num=\count99
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/here/here.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks16
+\float@box=\box69
+\@float@everytoks=\toks17
+\@floatcapt=\box70
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 137.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2014/04/23 v3.0j Driver-dependant file (DPC,SPQR)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/preprint/balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen132
+)
+(./paper.aux)
+\openout1 = `paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 28.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 28.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 38.
+
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 38.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 38.
+File: images/script_01.png Graphic file (type eps)
+<images/script_01.png>
+Overfull \hbox (6.30945pt too wide) in paragraph at lines 74--75
+ [][] 
+ []
+
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 75.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 75.
+File: images/interface.png Graphic file (type eps)
+<images/interface.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.5> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 93.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.5> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 93.
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 93.
+
+[1
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: ./images/script_02.png Graphic file (type eps)
+
+<./images/script_02.png>
+Overfull \hbox (6.30945pt too wide) in paragraph at lines 118--119
+ [][] 
+ []
+
+File: ./images/client.png Graphic file (type eps)
+<./images/client.png>
+Overfull \hbox (6.30945pt too wide) in paragraph at lines 149--150
+ [][] 
+ []
+
+[2]
+Overfull \hbox (26.5055pt too wide) in paragraph at lines 173--176
+[]\JY1/mc/m/n/10.5 上記システムは全て \OT1/cmr/m/n/10.95 Javascript \JY1/mc/m/n
+/10.5 で実装した 。 \OT1/cmr/m/n/10.95 Babascript
+ []
+
+File: ./images/system.png Graphic file (type eps)
+<./images/system.png>
+Overfull \hbox (6.30945pt too wide) in paragraph at lines 178--179
+[][] 
+ []
+
+File: ./images/task.png Graphic file (type eps)
+<./images/task.png>
+Overfull \hbox (6.30945pt too wide) in paragraph at lines 202--203
+[][] 
+ []
+
+[3] [4] (./paper.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+[]\OT1/cmr/m/n/10 Amazon Me-chan-i-cal Turk.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+[]\OT1/cmr/m/n/10 Linda im-ple-men-ta-tion on Socket.IO.
+ []
+
+
+LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
+(Font)              using `JT1/gt/m/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
+(Font)              using `JY1/gt/m/n' instead on input line 16.
+
+[5]
+Underfull \hbox (badness 2229) in paragraph at lines 33--37
+[]\OT1/cmr/m/n/10 M. J. Franklin, D. Koss-mann, T. Kraska,
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 51--55
+[]\OT1/cmr/m/n/10 A. Mor-ishima, N. Shi-na-gawa, T. Mit-su-ishi,
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 51--55
+\OT1/cmr/m/n/10 A Declar-a-tive Plat-form for Com-plex Data-
+ []
+
+) [6
+
+] (./paper.aux) ) 
+Here is how much of TeX's memory you used:
+ 1012 strings out of 493807
+ 13717 string characters out of 6151951
+ 77197 words of memory out of 5000000
+ 4481 multiletter control sequences out of 15000+600000
+ 17966 words of font info for 69 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 25i,8n,19p,260b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on paper.dvi (6 pages, 43168 bytes).

@@ -1,0 +1,69 @@
+\begin{thebibliography}{10}
+
+\bibitem{mechanicalturk}
+Amazon Mechanical Turk.
+\newblock https://www.mturk.com/mturk/.
+
+\bibitem{linda}
+Linda implementation on Socket.IO.
+\newblock https://github.com/node-linda/linda.
+
+\bibitem{automan}
+D.~W. Barowy, C.~Curtsinger, E.~D. Berger, and A.~McGregor.
+\newblock AutoMan: A Platform for Integrating Human-based and Digital
+  Computation.
+\newblock In \emph{Proceedings of the ACM International Conference on Object
+  Oriented Programming Systems Languages and Applications}, OOPSLA '12, pp.
+  639--654, New York, NY, USA, 2012. ACM.
+
+\bibitem{hapticturk}
+L.-P. Cheng, P.~L\"{u}hne, P.~Lopes, C.~Sterz, and P.~Baudisch.
+\newblock Haptic Turk: A Motion Platform Based on People.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '14, pp. 3463--3472, New York, NY, USA, 2014. ACM.
+
+\bibitem{prism}
+T.~Das, P.~Mohan, V.~N. Padmanabhan, R.~Ramjee, and A.~Sharma.
+\newblock PRISM: Platform for Remote Sensing Using Smartphones.
+\newblock In \emph{Proceedings of the 8th International Conference on Mobile
+  Systems, Applications, and Services}, MobiSys '10, pp. 63--76, New York, NY,
+  USA, 2010. ACM.
+
+\bibitem{crowddb}
+M.~J. Franklin, D.~Kossmann, T.~Kraska, S.~Ramesh, and R.~Xin.
+\newblock CrowdDB: Answering Queries with Crowdsourcing.
+\newblock In \emph{Proceedings of the 2011 ACM SIGMOD International Conference
+  on Management of Data}, SIGMOD '11, pp. 61--72, New York, NY, USA, 2011. ACM.
+
+\bibitem{riseofcrowdsourcing}
+J.~Howe.
+\newblock The Rise of Crowdsourcing.
+\newblock \emph{Wired Magazine}, 14(6), 06.
+
+\bibitem{crowdforge}
+A.~Kittur, B.~Smus, S.~Khamkar, and R.~E. Kraut.
+\newblock CrowdForge: Crowdsourcing Complex Work.
+\newblock In \emph{Proceedings of the 24th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '11, pp. 43--52, New York, NY, USA,
+  2011. ACM.
+
+\bibitem{cylog}
+A.~Morishima, N.~Shinagawa, T.~Mitsuishi, H.~Aoki, and S.~Fukusumi.
+\newblock CyLog/Crowd4U: A Declarative Platform for Complex Data-centric
+  Crowdsourcing.
+\newblock \emph{Proc. VLDB Endow.}, 5(12):1918--1921, Aug. 2012.
+
+\bibitem{humancomputation}
+L.~Von~Ahn.
+\newblock \emph{Human Computation}.
+\newblock PhD thesis, Pittsburgh, PA, USA, 2005.
+\newblock AAI3205378.
+
+\bibitem{sharedo}
+淳 加藤, 大介 坂本, 健夫 五十嵐.
+\newblock Sharedo: To-doリストによる人-ロボット間のタスク共有.
+\newblock  WISS '11:
+  第19回インタラクティブシステムとソフトウェアに関するワークショップ, pp.
+  102--107, 2011.
+
+\end{thebibliography}
