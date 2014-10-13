@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2014.6.24)  1 SEP 2014 21:27
+This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2014.6.24)  14 OCT 2014 02:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -126,118 +126,149 @@ Package color Info: Driver file: dvips.def on input line 137.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2014/04/23 v3.0j Driver-dependant file (DPC,SPQR)
 ))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count101
+\lst@gtempboxa=\box71
+\lst@token=\toks18
+\lst@length=\count102
+\lst@currlwidth=\dimen132
+\lst@column=\count103
+\lst@pos=\count104
+\lst@lostspace=\dimen133
+\lst@width=\dimen134
+\lst@newlines=\count105
+\lst@lineno=\count106
+\abovecaptionskip=\skip43
+\belowcaptionskip=\skip44
+\lst@maxwidth=\dimen135
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+\c@lstnumber=\count107
+\lst@skipnumbers=\count108
+\lst@framebox=\box72
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/03/04 1.5c listings configuration
+))
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
+
 (/usr/local/texlive/2014/texmf-dist/tex/latex/preprint/balance.sty
 Package: balance 1999/02/23 4.3 (PWD)
-\oldvsize=\dimen132
+\oldvsize=\dimen136
 )
 (./paper.aux)
 \openout1 = `paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+\c@lstlisting=\count109
+LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 67.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 67.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 67.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.5> on input line 67.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.34996> on input line 67.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.25> on input line 67.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 28.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 70.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 28.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 38.
-
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 38.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 38.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 38.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 38.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 38.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 38.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 38.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 38.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 38.
-File: images/script_01.png Graphic file (type eps)
-<images/script_01.png>
-Overfull \hbox (6.30945pt too wide) in paragraph at lines 74--75
- [][] 
- []
-
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 75.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 75.
-File: images/interface.png Graphic file (type eps)
-<images/interface.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.5> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 93.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.5> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 93.
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 93.
-
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 70.
 [1
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-File: ./images/script_02.png Graphic file (type eps)
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 82.
 
-<./images/script_02.png>
-Overfull \hbox (6.30945pt too wide) in paragraph at lines 118--119
- [][] 
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 82.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 82.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 82.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 82.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 82.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 82.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 82.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 82.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 82.
+
+Overfull \hbox (1.79695pt too wide) in paragraph at lines 102--110
+[]\JY1/mc/m/n/10.5 以上のような点をふまえ 、 本論文では 、 \OT1/cmr/m/n/10.95 B
+abascript
  []
 
-File: ./images/client.png Graphic file (type eps)
-<./images/client.png>
-Overfull \hbox (6.30945pt too wide) in paragraph at lines 149--150
- [][] 
- []
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 121.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 121.
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 121.
+[2
 
-[2]
-Overfull \hbox (26.5055pt too wide) in paragraph at lines 173--176
-[]\JY1/mc/m/n/10.5 上記システムは全て \OT1/cmr/m/n/10.95 Javascript \JY1/mc/m/n
-/10.5 で実装した 。 \OT1/cmr/m/n/10.95 Babascript
- []
+]
 
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 138.
+
+File: images/format_01.png Graphic file (type eps)
+<images/format_01.png>
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.5> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 156.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.5> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 156.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 156.
+
+[3]
 File: ./images/system.png Graphic file (type eps)
-<./images/system.png>
-Overfull \hbox (6.30945pt too wide) in paragraph at lines 178--179
+ <./images/system.png>
+Overfull \hbox (6.30945pt too wide) in paragraph at lines 278--279
 [][] 
  []
 
+[4]
 File: ./images/task.png Graphic file (type eps)
-<./images/task.png>
-Overfull \hbox (6.30945pt too wide) in paragraph at lines 202--203
+ <./images/task.png>
+Overfull \hbox (6.30945pt too wide) in paragraph at lines 302--303
 [][] 
  []
 
-[3] [4] (./paper.bbl
+[5] [6] (./paper.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
 []\OT1/cmr/m/n/10 Amazon Me-chan-i-cal Turk.
  []
@@ -249,37 +280,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
 
 LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
-(Font)              using `JT1/gt/m/n' instead on input line 16.
+(Font)              using `JT1/gt/m/n' instead on input line 15.
 
 
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
-(Font)              using `JY1/gt/m/n' instead on input line 16.
+(Font)              using `JY1/gt/m/n' instead on input line 15.
 
-[5]
-Underfull \hbox (badness 2229) in paragraph at lines 33--37
+
+Underfull \hbox (badness 2229) in paragraph at lines 40--44
 []\OT1/cmr/m/n/10 M. J. Franklin, D. Koss-mann, T. Kraska,
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 51--55
+Underfull \hbox (badness 1082) in paragraph at lines 58--62
 []\OT1/cmr/m/n/10 A. Mor-ishima, N. Shi-na-gawa, T. Mit-su-ishi,
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 51--55
+Underfull \hbox (badness 2221) in paragraph at lines 58--62
 \OT1/cmr/m/n/10 A Declar-a-tive Plat-form for Com-plex Data-
  []
 
-) [6
-
-] (./paper.aux) ) 
+) [7] (./paper.aux) ) 
 Here is how much of TeX's memory you used:
- 1012 strings out of 493807
- 13717 string characters out of 6151951
- 77197 words of memory out of 5000000
- 4481 multiletter control sequences out of 15000+600000
- 17966 words of font info for 69 fonts, out of 8000000 for 9000
+ 2299 strings out of 493807
+ 32488 string characters out of 6151951
+ 145974 words of memory out of 5000000
+ 5758 multiletter control sequences out of 15000+600000
+ 19214 words of font info for 74 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 25i,8n,19p,260b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,11n,40p,260b,1647s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on paper.dvi (6 pages, 43168 bytes).
+Output written on paper.dvi (7 pages, 65424 bytes).

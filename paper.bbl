@@ -8,6 +8,13 @@ Amazon Mechanical Turk.
 Linda implementation on Socket.IO.
 \newblock https://github.com/node-linda/linda.
 
+\bibitem{dog}
+S.~Ahmad and S.~Kamvar.
+\newblock The Dog Programming Language.
+\newblock In \emph{Proceedings of the 26th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '13, pp. 463--472, New York, NY,
+  USA, 2013. ACM.
+
 \bibitem{automan}
 D.~W. Barowy, C.~Curtsinger, E.~D. Berger, and A.~McGregor.
 \newblock AutoMan: A Platform for Integrating Human-based and Digital
