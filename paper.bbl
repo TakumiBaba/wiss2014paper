@@ -4,9 +4,17 @@
 Amazon Mechanical Turk.
 \newblock https://www.mturk.com/mturk/.
 
-\bibitem{linda}
+\bibitem{nodelinda}
 Linda implementation on Socket.IO.
 \newblock https://github.com/node-linda/linda.
+
+\bibitem{jabberwocky}
+S.~Ahmad, A.~Battle, Z.~Malkani, and S.~Kamvar.
+\newblock The Jabberwocky Programming Environment for Structured Social
+  Computing.
+\newblock In \emph{Proceedings of the 24th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '11, pp. 53--64, New York, NY, USA,
+  2011. ACM.
 
 \bibitem{dog}
 S.~Ahmad and S.~Kamvar.
@@ -41,6 +49,11 @@ M.~J. Franklin, D.~Kossmann, T.~Kraska, S.~Ramesh, and R.~Xin.
 \newblock CrowdDB: Answering Queries with Crowdsourcing.
 \newblock In \emph{Proceedings of the 2011 ACM SIGMOD International Conference
   on Management of Data}, SIGMOD '11, pp. 61--72, New York, NY, USA, 2011. ACM.
+
+\bibitem{linda}
+D.~Gelernter and N.~Carriero.
+\newblock Coordination Languages and Their Significance.
+\newblock \emph{Commun. ACM}, 35(2):97--107, Feb. 1992.
 
 \bibitem{riseofcrowdsourcing}
 J.~Howe.

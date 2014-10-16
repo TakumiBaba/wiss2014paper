@@ -3,50 +3,50 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: paper.aux
 The style file: jwiss.bst
 Database file #1: paper.bib
-Warning--to sort, need author or key in linda
+Warning--to sort, need author or key in nodelinda
 Warning--to sort, need author or key in mechanicalturk
 Warning--there's a month but no year in riseofcrowdsourcing
 Warning--empty school in humancomputation
-You've used 12 entries,
+You've used 14 entries,
             2574 wiz_defined-function locations,
-            664 strings with 6396 characters,
-and the built_in function-call counts, 5498 in all, are:
-= -- 513
-> -- 197
-< -- 7
-+ -- 84
-- -- 70
-* -- 315
-:= -- 749
-add.period$ -- 41
-call.type$ -- 12
-change.case$ -- 59
+            674 strings with 6662 characters,
+and the built_in function-call counts, 6432 in all, are:
+= -- 602
+> -- 231
+< -- 8
++ -- 99
+- -- 82
+* -- 375
+:= -- 880
+add.period$ -- 48
+call.type$ -- 14
+change.case$ -- 69
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 283
-empty$ -- 459
-format.name$ -- 105
-if$ -- 1274
+cite$ -- 18
+duplicate$ -- 329
+empty$ -- 535
+format.name$ -- 123
+if$ -- 1486
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 9
-newline$ -- 62
-num.names$ -- 20
-pop$ -- 116
+int.to.str$ -- 14
+missing$ -- 11
+newline$ -- 72
+num.names$ -- 24
+pop$ -- 131
 preamble$ -- 1
-purify$ -- 59
+purify$ -- 69
 quote$ -- 0
-skip$ -- 269
+skip$ -- 311
 stack$ -- 0
-substring$ -- 301
-swap$ -- 71
-text.length$ -- 7
+substring$ -- 358
+swap$ -- 80
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 48
+type$ -- 56
 warning$ -- 4
-while$ -- 43
-width$ -- 14
-write$ -- 146
-is.kanji.str$ -- 132
+while$ -- 52
+width$ -- 16
+write$ -- 171
+is.kanji.str$ -- 155
 (There were 4 warnings)
