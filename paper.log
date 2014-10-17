@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2014.6.24)  16 OCT 2014 18:22
+This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2014.6.24)  17 OCT 2014 19:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -184,34 +184,34 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 81.
+(Font)              size <10.95> substituted on input line 79.
 
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 81.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 79.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 81.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 79.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 81.
+(Font)              <12> on input line 79.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 81.
+(Font)              <8> on input line 79.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 81.
+(Font)              <6> on input line 79.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 81.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 79.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 81.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 79.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 81.
+(Font)              <9> on input line 79.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 81.
+(Font)              <5> on input line 79.
 
-Overfull \hbox (11.40022pt too wide) in paragraph at lines 100--106
+Overfull \hbox (11.40022pt too wide) in paragraph at lines 98--104
 []\JY1/mc/m/n/10.5 以上のような問題をふまえ 、 本論文では 、 \OT1/cmr/m/n/10.95
  Babascript
  []
 
 
-Overfull \hbox (6.60258pt too wide) in paragraph at lines 100--106
+Overfull \hbox (6.60258pt too wide) in paragraph at lines 98--104
 \OT1/cmr/m/n/10.95 Babascript Client(\JY1/mc/m/n/10.5 図 \OT1/cmr/m/n/10.95 2) 
 \JY1/mc/m/n/10.5 から構成される 。 \OT1/cmr/m/n/10.95 Babascript
  []
@@ -219,28 +219,43 @@ Overfull \hbox (6.60258pt too wide) in paragraph at lines 100--106
 File: images/basic.png Graphic file (type eps)
 <images/basic.png>
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 134.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 133.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 134.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 133.
 File: images/format_01.png Graphic file (type eps)
  <images/format_01.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.5> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 151.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 149.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.5> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 151.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 149.
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 149.
+
+LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 151.
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <10.5> not available
 (Font)              size <10.95> substituted on input line 151.
 
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 151.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.5> on input line 151.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.34996> on input line 151.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.25> on input line 151.
 [1
 
 
 
 ]
-Overfull \hbox (6.99829pt too wide) in paragraph at lines 160--165
+Overfull \hbox (6.99829pt too wide) in paragraph at lines 158--163
 \JY1/mc/m/n/10.5 だ 。 一方で 、 「\OT1/cmr/m/n/10.95 clean[]up[]your[]room\JY1
 /mc/m/n/10.5 」 や 「\OT1/cmr/m/n/10.95 bake[]bread\JY1/mc/m/n/10.5 」
  []
@@ -249,47 +264,31 @@ Overfull \hbox (6.99829pt too wide) in paragraph at lines 160--165
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \hbox (6.2219pt too wide) in paragraph at lines 183--187
+Overfull \hbox (6.2219pt too wide) in paragraph at lines 182--186
 []\JY1/mc/m/n/10.5 人への命令構文の第一引数には 、 \OT1/cmr/m/n/10.95 Babascrip
 t Client
  []
-
-
-LaTeX Warning: Reference `script_02' on page 2 undefined on input line 188.
 
 File: images/list_format.png Graphic file (type eps)
 <images/list_format.png> [2]
 File: images/client_library_image.png Graphic file (type eps)
  <images/client_library_image.png>
-File: ./images/system.png Graphic file (type eps)
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: ./images/system.png Graphic file (type eps)
 <./images/system.png>
-Overfull \hbox (6.30945pt too wide) in paragraph at lines 277--278
+Overfull \hbox (6.30945pt too wide) in paragraph at lines 276--277
 [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 283.
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 283.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 283.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.5> on input line 283.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.34996> on input line 283.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.25> on input line 283.
 [3]
 File: ./images/task.png Graphic file (type eps)
  <./images/task.png>
-Overfull \hbox (6.30945pt too wide) in paragraph at lines 304--305
+Overfull \hbox (6.30945pt too wide) in paragraph at lines 303--304
 [][] 
  []
 
@@ -297,10 +296,10 @@ Overfull \hbox (6.30945pt too wide) in paragraph at lines 304--305
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-Underfull \vbox (badness 2318) has occurred while \output is active []
+Underfull \vbox (badness 1365) has occurred while \output is active []
 
  [5]
-Overfull \hbox (11.959pt too wide) in paragraph at lines 449--451
+Overfull \hbox (11.959pt too wide) in paragraph at lines 451--453
 \JY1/mc/m/n/10.5 例について言及した 。 今後は 、 考察で述べた \OT1/cmr/m/n/10.9
 5 Babascript
  []
@@ -323,12 +322,12 @@ LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
 (Font)              using `JY1/gt/m/n' instead on input line 16.
 
-
+[6]
 Underfull \hbox (badness 2229) in paragraph at lines 48--52
 []\OT1/cmr/m/n/10 M. J. Franklin, D. Koss-mann, T. Kraska,
  []
 
-[6]
+
 Underfull \hbox (badness 1082) in paragraph at lines 71--75
 []\OT1/cmr/m/n/10 A. Mor-ishima, N. Shi-na-gawa, T. Mit-su-ishi,
  []
@@ -342,12 +341,12 @@ Underfull \hbox (badness 2221) in paragraph at lines 71--75
 
 ] (./paper.aux) ) 
 Here is how much of TeX's memory you used:
- 2239 strings out of 493807
- 31940 string characters out of 6151951
+ 2238 strings out of 493807
+ 31930 string characters out of 6151951
  99982 words of memory out of 5000000
- 5696 multiletter control sequences out of 15000+600000
+ 5695 multiletter control sequences out of 15000+600000
  19046 words of font info for 73 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  26i,11n,40p,271b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on paper.dvi (7 pages, 50788 bytes).
+Output written on paper.dvi (7 pages, 50860 bytes).
