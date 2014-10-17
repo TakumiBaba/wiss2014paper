@@ -1,13 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{mechanicalturk}
-Amazon Mechanical Turk.
-\newblock https://www.mturk.com/mturk/.
-
-\bibitem{nodelinda}
-Linda implementation on Socket.IO.
-\newblock https://github.com/node-linda/linda.
-
 \bibitem{jabberwocky}
 S.~Ahmad, A.~Battle, Z.~Malkani, and S.~Kamvar.
 \newblock The Jabberwocky Programming Environment for Structured Social
